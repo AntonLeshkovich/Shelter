@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Arial';
+	src: url('arial-italic.ttf');
+	src: local('Arial Italic'), local('Arial-Italic'),
+		url('arial-italic.ttf') format('ttf');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Arial';
+	src: url('arial-regular.ttf');
+	src: local('Arial'), local('Arial'),
+		url('arial-regular.ttf') format('ttf');
+	font-weight: 400;
+	font-style: normal;
+}
+
